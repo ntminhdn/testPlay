@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/new/icon1">
+        <file>C:/Users/NgocLinh/Pictures/Icon/funny/Dapino-Cute-Chicken-Chicken-egg-shell.ico</file>
+        <file>C:/Users/NgocLinh/Pictures/Icon/funny/Dapino-Cute-Chicken-Party-chicken.ico</file>
+        <file>C:/Users/NgocLinh/Pictures/Icon/funny/Dapino-Cute-Chicken-Singing-chicken.ico</file>
+        <file>C:/Users/NgocLinh/Pictures/Icon/funny/Dapino-Cute-Chicken-Waving-chicken.ico</file>
+        <file>C:/Users/NgocLinh/Pictures/Icon/funny/Manda-Pie-Back-To-School-Books.ico</file>
+        <file>C:/Users/NgocLinh/Pictures/Icon/funny/Manda-Pie-Back-To-School-Breakfast.ico</file>
+        <file>C:/Users/NgocLinh/Pictures/Icon/funny/Martin-Berube-Square-Animal-Bee.ico</file>
+        <file>C:/Users/NgocLinh/Pictures/Icon/funny/Martin-Berube-Square-Animal-Bull.ico</file>
+        <file>C:/Users/NgocLinh/Pictures/Icon/funny/Martin-Berube-Square-Animal-Cat.ico</file>
+        <file>C:/Users/NgocLinh/Pictures/Icon/funny/Martin-Berube-Square-Animal-Cow.ico</file>
+        <file>C:/Users/NgocLinh/Pictures/Icon/funny/Martin-Berube-Square-Animal-Sheep.ico</file>
+        <file>C:/Users/NgocLinh/Pictures/Icon/funny/Martin-Berube-Square-Animal-Snail.ico</file>
+        <file>C:/Users/NgocLinh/Pictures/Icon/funny/Raindropmemory-Harmonia-Pastelis-Hp-WMPclassic.ico</file>
+        <file>C:/Users/NgocLinh/Pictures/Icon/icon/Raindropmemory-Harmonia-Pastelis-Hp-folder-music-2.ico</file>
+    </qresource>
+</RCC>

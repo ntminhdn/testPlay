@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>MainWindow</class>
+ <widget class="QMainWindow" name="MainWindow">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>677</width>
+    <height>388</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>MainWindow</string>
+  </property>
+  <property name="toolTip">
+   <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;img src=&quot;:/new/icon1/C:/Users/NgocLinh/Pictures/Icon/funny/Manda-Pie-Back-To-School-Breakfast.ico&quot;/&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+  </property>
+  <property name="whatsThis">
+   <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;img src=&quot;:/new/icon1/C:/Users/NgocLinh/Pictures/Icon/funny/Manda-Pie-Back-To-School-Breakfast.ico&quot;/&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+  </property>
+  <widget class="QWidget" name="centralWidget">
+   <widget class="QPushButton" name="br">
+    <property name="geometry">
+     <rect>
+      <x>160</x>
+      <y>10</y>
+      <width>71</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="toolTip">
+     <string>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'MS Shell Dlg 2'; font-size:8pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;img src=&quot;:/new/icon1/C:/Users/NgocLinh/Pictures/Icon/icon/Raindropmemory-Harmonia-Pastelis-Hp-folder-music-2.ico&quot; /&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+    </property>
+    <property name="text">
+     <string>Chọn</string>
+    </property>
+   </widget>
+   <widget class="QListWidget" name="listWidget">
+    <property name="geometry">
+     <rect>
+      <x>410</x>
+      <y>20</y>
+      <width>261</width>
+      <height>311</height>
+     </rect>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label">
+    <property name="geometry">
+     <rect>
+      <x>410</x>
+      <y>0</y>
+      <width>261</width>
+      <height>21</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <family>MS Shell Dlg 2</family>
+      <weight>75</weight>
+      <bold>true</bold>
+     </font>
+    </property>
+    <property name="toolTip">
+     <string>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'MS Shell Dlg 2'; font-size:8pt; font-weight:600; font-style:normal;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Comic Sans MS'; font-weight:400;&quot;&gt;Hiển thị tên bài hát hehe&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+    </property>
+    <property name="whatsThis">
+     <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;img src=&quot;:/new/icon1/C:/Users/NgocLinh/Pictures/Icon/funny/Manda-Pie-Back-To-School-Breakfast.ico&quot;/&gt;j&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">
+</string>
+    </property>
+    <property name="text">
+     <string>Bài Hát</string>
+    </property>
+   </widget>
+  </widget>
+  <widget class="QMenuBar" name="menuBar">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>677</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <widget class="QMenu" name="menuMenu">
+    <property name="title">
+     <string>Menu</string>
+    </property>
+    <addaction name="actionopen"/>
+   </widget>
+   <addaction name="menuMenu"/>
+  </widget>
+  <widget class="QToolBar" name="mainToolBar">
+   <attribute name="toolBarArea">
+    <enum>TopToolBarArea</enum>
+   </attribute>
+   <attribute name="toolBarBreak">
+    <bool>false</bool>
+   </attribute>
+  </widget>
+  <widget class="QStatusBar" name="statusBar"/>
+  <action name="actionopen">
+   <property name="icon">
+    <iconset resource="icon.qrc">
+     <normaloff>:/new/icon1/C:/Users/NgocLinh/Pictures/Icon/funny/Martin-Berube-Square-Animal-Bee.ico</normaloff>:/new/icon1/C:/Users/NgocLinh/Pictures/Icon/funny/Martin-Berube-Square-Animal-Bee.ico</iconset>
+   </property>
+   <property name="text">
+    <string>open</string>
+   </property>
+  </action>
+ </widget>
+ <layoutdefault spacing="6" margin="11"/>
+ <resources>
+  <include location="icon.qrc"/>
+ </resources>
+ <connections/>
+</ui>
